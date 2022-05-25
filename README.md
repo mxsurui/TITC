@@ -9,11 +9,7 @@
 
 - 📫 How to reach me **yuhang.tao.email@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yuhang_tao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuhang_tao" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yuhang-tao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yuhang-tao" height="30" width="40" /></a>
-<a href="https://fb.com/yh.tao.account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yh.tao.account" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
