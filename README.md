@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuhang Tao</h1>
 
-![snake gif](https://github.com/TITC/TITC/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/TITC/TITC/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titc&label=Profile%20views&color=0e75b6&style=flat" alt="titc" /> </p>
 
