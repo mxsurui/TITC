@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuhang Tao</h1>
+
+![snake gif](https://github.com/TITC/TITC/blob/output/github-contribution-grid-snake.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titc&label=Profile%20views&color=0e75b6&style=flat" alt="titc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titc" alt="titc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yuhang_tao" target="blank"><img src="https://img.shields.io/twitter/follow/yuhang_tao?logo=twitter&style=for-the-badge" alt="yuhang_tao" /></a> </p>
 
 - 📫 How to reach me **yuhang.tao.email@gmail.com**
 
